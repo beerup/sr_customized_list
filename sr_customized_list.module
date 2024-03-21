@@ -1,3 +1,4 @@
+#!name=customized_list  
 [Rule]
 DOMAIN-SUFFIX,bangumi.tv,DIRECT
 DOMAIN-SUFFIX,bgm.tv,DIRECT
