@@ -8,3 +8,14 @@ DOMAIN-SUFFIX,vuejs.org,DIRECT
 DOMAIN-SUFFIX,vueschool.io,DIRECT
 
 DOMAIN-SUFFIX,mangafuna.xyz,PROXY
+
+#bing
+DOMAIN-SUFFIX,bing.com,DIRECT
+OMAIN-SUFFIX,bing.net,DIRECT
+DOMAIN-SUFFIX,bingads.com,DIRECT
+DOMAIN-SUFFIX,bingagencyawards.com,DIRECT
+DOMAIN-SUFFIX,bingapistatistics.com,DIRECT
+DOMAIN-SUFFIX,bingsandbox.com,DIRECT
+DOMAIN-SUFFIX,bingvisualsearch.com,DIRECT
+DOMAIN-SUFFIX,bingworld.com,DIRECT
+
