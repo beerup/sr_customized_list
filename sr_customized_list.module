@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,mangafuna.xyz,PROXY
 
 #bing
 DOMAIN-SUFFIX,bing.com,DIRECT
-OMAIN-SUFFIX,bing.net,DIRECT
+DOMAIN-SUFFIX,bing.net,DIRECT
 DOMAIN-SUFFIX,bingads.com,DIRECT
 DOMAIN-SUFFIX,bingagencyawards.com,DIRECT
 DOMAIN-SUFFIX,bingapistatistics.com,DIRECT
