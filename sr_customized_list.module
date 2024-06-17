@@ -4,9 +4,6 @@ DOMAIN-SUFFIX,bangumi.tv,DIRECT
 DOMAIN-SUFFIX,bgm.tv,DIRECT
 #DOMAIN-SUFFIX,jetbrains.com,DIRECT
 DOMAIN-SUFFIX,deepl.com,DIRECT
-DOMAIN-SUFFIX,vuejs.org,DIRECT
-DOMAIN-SUFFIX,vueschool.io,DIRECT
-
 DOMAIN-SUFFIX,mangafuna.xyz,PROXY
 
 #bing
@@ -19,3 +16,11 @@ DOMAIN-SUFFIX,bingsandbox.com,DIRECT
 DOMAIN-SUFFIX,bingvisualsearch.com,DIRECT
 DOMAIN-SUFFIX,bingworld.com,DIRECT
 
+#Vue
+DOMAIN-SUFFIX,vuejs.org,DIRECT
+DOMAIN-SUFFIX,vueschool.io,DIRECT
+DOMAIN-SUFFIX,clientstream.launchdarkly.com,DIRECT
+
+#Postman
+DOMAIN-SUFFIX,postman.com,DIRECT
+DOMAIN-SUFFIX,getpostman.com,DIRECT
