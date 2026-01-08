@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,bingworld.com,DIRECT
 #Postman
 DOMAIN-SUFFIX,postman.com,DIRECT
 DOMAIN-SUFFIX,getpostman.com,DIRECT
+
+DOMAIN-SUFFIX,umeng.com,REJECT
